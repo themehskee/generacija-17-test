@@ -1,6 +1,0 @@
-# this was our first commit
-this is our first commit; 
-test1.23
-
-# this was our second commit
-this is another change;
