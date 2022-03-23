@@ -3,3 +3,6 @@ Bogdancho
 Bojan
 Filip
 Igor
+Petre
+Stanko
+Lazo
